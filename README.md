@@ -1,6 +1,6 @@
 # motion-delegate
 
-TODO: Write a gem description
+A small gem to make communication between RubyMotion objects easier. This gem creates a simple dsl for setting up delegates for method calls and event handlers easily.
 
 ## Installation
 
