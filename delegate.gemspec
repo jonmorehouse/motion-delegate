@@ -2,7 +2,7 @@
 VERSION = "1.0"
 
 Gem::Specification.new do |spec|
-  spec.name          = "motion-delegate"
+  spec.name          = "delegate"
   spec.version       = VERSION
   spec.authors       = ["Jon Morehouse"]
   spec.email         = ["morehousej09@gmail.com"]

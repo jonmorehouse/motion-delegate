@@ -1,4 +1,4 @@
-describe "Application 'motion-delegate'" do
+describe "Application 'delegate'" do
   before do
     @app = UIApplication.sharedApplication
   end
